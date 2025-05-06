@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
@@ -39,6 +39,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="30" alt="mongoDB logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="30" alt="tensorflow"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="30" alt="flutter"  />
+  
+  
+  
+
 </div>
 
 ###
@@ -56,14 +66,15 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ankanz1/ankanz1/output/snake.svg" alt="Snake animation" />
-
+<picture>
+<!-- <img src="https://raw.githubusercontent.com/ankanz1/ankanz1/output/snake.svg" alt="Snake animation" />
+</picture> -->
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankanz1/ankanz1/output/pacman-contribution-graph-dark.svg">
+<!--   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankanz1/ankanz1/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankanz1/ankanz1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ankanz1/ankanz1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ankanz1/ankanz1/output/pacman-contribution-graph.svg"> -->
 </picture>
 
 ###
