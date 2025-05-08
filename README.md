@@ -79,10 +79,23 @@
 ###
 
 <br clear="both">
-
+<div align="center">
 <picture>
-<!-- <img src="https://raw.githubusercontent.com/ankanz1/ankanz1/output/snake.svg" alt="Snake animation" />
-</picture> -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
+
 ###
 
 <picture>
@@ -93,19 +106,6 @@
 
 ###
 
-<picture>
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankanz1/ankanz1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankanz1/ankanz1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ankanz1/ankanz1/output/pacman-contribution-graph.svg"> -->
-</picture>
-
-###
-
-<picture>
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankanz1/ankanz1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankanz1/ankanz1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ankanz1/ankanz1/output/pacman-contribution-graph.svg"> -->
-</picture>
 
 ###
 
@@ -117,8 +117,3 @@
 
 ###
 
-<div align="center">
-<!--   <img src="https://camo.githubusercontent.com/aa886544400788bb825d0a1a9cd986e68c56d6b79d8edf2e1cc1dcf3b18369ea/68747470733a2f2f7474686e2e707974686f6e616e7977686572652e636f6d3f7468656d653d6461726b?theme=dark&spin=false" alt="Widget with the current Spotify song"  /> -->
-</div>
-
-###
