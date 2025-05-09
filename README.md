@@ -16,7 +16,7 @@
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankanz1&theme=radical" alt="ankanz1-streck" /></p>
   
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankanz1&theme=radical" height="100" alt="ankanz1" /></a></p>
+  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankanz1&theme=radical" height="100" alt="trophy" /></a></p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankanz1&theme=dracula" alt="ankanz1-streck" /></p> -->
 
 </div>
